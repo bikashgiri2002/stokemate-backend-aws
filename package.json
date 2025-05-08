@@ -1,0 +1,35 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "stockmate backend for the college project",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikashgiri2002/AwsDeploy.git"
+  },
+  "author": "SLI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikashgiri2002/AwsDeploy"
+  },
+  "homepage": "https://github.com/bikashgiri2002/AwsDeploy#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.13.0",
+    "nodemailer": "^6.10.1",
+    "validator": "^13.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
