@@ -26,7 +26,7 @@ stockmate-backend/
 ├── routes/           # Express route handlers
 ├── utils/            # Utility functions
 ├── .env.example      # Sample environment configuration
-├── server.js         # Entry point of the server
+├── app.js         # Entry point of the server
 └── package.json
 ```
 
@@ -37,8 +37,8 @@ stockmate-backend/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/stockmate-backend.git
-cd stockmate-backend
+git clone https://github.com/bikashgiri2002/stokemate-backend-aws.git
+cd stokemate-backend-aws
 ```
 
 ### 2. Install Dependencies
@@ -97,8 +97,8 @@ sudo apt install nodejs npm git -y
 ### 3. Clone Your Repo and Setup
 
 ```bash
-git clone https://github.com/your-username/stockmate-backend.git
-cd stockmate-backend
+git clone https://github.com/bikashgiri2002/stokemate-backend-aws.git
+cd stokemate-backend-aws
 npm install
 ```
 
